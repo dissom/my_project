@@ -1,4 +1,4 @@
-number='1234576'
+number='123456'
 
 def is_special_number(number: int) -> str:
     num_str=str(number)
